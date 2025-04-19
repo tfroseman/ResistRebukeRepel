@@ -1,0 +1,8 @@
+baseURL = 'https://resistrebukerepele.com/'
+languageCode = 'en-us'
+title = 'Resist, Rebuke, Repel! America has no Kings'
+theme = 'nostyleplease'
+subtitle="Three Words"
+[params]
+	[params.theme_config]
+		isShowFooter = false
