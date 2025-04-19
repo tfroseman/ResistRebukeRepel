@@ -15,3 +15,9 @@ Fascism has no place in modern society. That was decided not that long ago. Trag
 *Signed*
 
 The Unites States of America has no Kings
+
+
+
+## Friends and Allies
+
+[Iron Front USA](https://www.ironfrontusa.org/) — [Operation Blazing Sword](https://www.blazingsword.org/) — [The Pink Pistols](https://www.pinkpistols.org/)
